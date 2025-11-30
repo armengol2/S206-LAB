@@ -33,7 +33,7 @@ testes foram escritos usando **JavaScript**.
 
 ## Como gerar o relatório por meio HTML
 
-Para executar os testes e gerar o relatório:
+Apôs carregar o collection no PostMan, executar os testes e gerar o relatório:
 
 1. Instale o Newman:
 
@@ -59,7 +59,7 @@ newman run "Exercício_1.json" -r htmlextra
 
 ## Exercício 2
 
-O arquivo **Exercício_2.txt** contém respostas sobre:
+O arquivo **Exercício_2.txt** contém as respostas das questões de 1 a 6, sobre:
 
 * conceitos de testes,
 * qualidade de software,
@@ -67,4 +67,5 @@ O arquivo **Exercício_2.txt** contém respostas sobre:
 * erros e validações.
 
 ---
+
 
