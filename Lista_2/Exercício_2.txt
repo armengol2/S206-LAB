@@ -1,0 +1,9 @@
+1-> Apenas uma suíte de testes GET, contendo 6 casos de teste.
+2-> Os testes desenvolvidos são automatizados, pois utilizam scripts que executam 
+as validações automaticamente após cada SEND.
+3-> Os testes apresentados pertencem ao andar intermédiario(testes de API).
+4-> Como não avaliam desempenho, segurança etc, são testes puramente funcionais, focados em 
+retorno correto dos dados e coerência entre campos.
+5-> Não são testes End-To-End, afinal, testam apenas a API e não todo o conjunto do programa.
+6-> Para que funcionem em forma de regressão, é preciso que eles possam ser executados de 
+forma automatica e sempre da mesma forma, sem depender que haja a necessidade de clicar em SEND.
