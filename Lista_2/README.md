@@ -1,4 +1,4 @@
-# Lista de exercícios 2 - de Testes com Postman
+# Lista de exercícios 2 - Testes com Postman
 
 Este projeto contém a resolução dos **Exercícios 1 e 2** da disciplina, utilizando **Postman**, **Newman** e geração de relatório em **HTML**.
 
@@ -67,3 +67,4 @@ O arquivo **Exercício_2.txt** contém respostas sobre:
 * erros e validações.
 
 ---
+
